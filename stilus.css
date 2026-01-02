@@ -118,6 +118,15 @@ li{
     text-align: center;
 }
 
+table{
+    color: red;
+    padding-top: 20px;
+    text-align: center;
+    margin: auto;
+    width: 80%;
+    height: 400px;
+}
+
 @media screen and (max-width: 600px){
     .tarolo{
         width: 100%;
